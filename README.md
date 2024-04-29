@@ -3,4 +3,8 @@
 <p align="left">
 </p>
 
-<img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV5c3BkODBvZzlvZWVuMWdlYW5sOHNtazIya2YwOXdkNmE5eWJuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rKUadKNMLDjMs/giphy.gif">
+<img width= "200" align="center"
+  src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV5c3BkODBvZzlvZWVuMWdlYW5sOHNtazIya2YwOXdkNmE5eWJuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rKUadKNMLDjMs/giphy.gif">
+
+<div class="header" aling="center">
+</div>
